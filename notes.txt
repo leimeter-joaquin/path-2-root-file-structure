@@ -1,19 +1,48 @@
-1. You enter the living room and inspect in there
-you can access kitchet, hallway -> bedroom. no access to bathroom.
+1. In the living room you interact with:
+  the description - unlocks book-shelf, lamp, window and table
+  the book-shelf
+  the lamp
+  the window
+  the table - you get the first note and unlock the bed
+  the kitchen -> There is no interaction in the kitchen, just descriptions.
+  the hallway ->
 
-2. in the bedroom you find a key. you can now access the bathroom.
+2. In the hallway you interact with:
+  the description - unlocks bedroom, also mentions the other door, file is still unavailable
+  the bedroom ->
 
-3. in the bathrom you see a message/note/something that tells you there is a basement.
-You get access to the move command, the only thing that can be moved is the carpet.
+3. In the bedroom you can interact with 
+  the description - unlocks window and wardrove
+  the window (rain sound added to ambiance)
+  the bed, you find the second note
+  the wardrove, you find a hammer - unlocks bedside-table.txt
+  the bedside table, you find a wooden box (use the hammer) (boxDestruction.mp3) and find a key, you can now access the bathroom.
 
-4. after this when you go back to the living room the music changes a bit. and yo see the carpet.txt file.
-here you should use the move carpet command to gain access to the basement.
+4. In the bathroom you interat with:
+  the description - unlocks mirror-cabinet and toilet
+  the mirror-cabinet - find the last note - Unlocks carpet.txt in the living room
+  the toilet
 
-5. you cd into the basement. a locking sound happens, you cannot go back into the living room. the basement has some weird writing on the walls and a body with a foul smell, it's the woman. On one of her clawed up hands you see a key.
+5. In the living room you interact with: 
+  the carpet - Moving carpet sound unlocks basement (openingBasementDoor.mp3)
+  the description
+  the book-shelf
+  the lamp
+  the window
+  the kitchen -> There is no interaction in the kitchen, just descriptions.
+  the hallway ->
+  the basement ->
 
-6. You get the key and open the basement door again. you gain access to the cd .. command that lets you exit the house and win the game?
+6. In the basement (basement ambiance.mp3) you interact with:
+  the description - unlocks body.txt
+  the body - unlocks key.txt (womanBreathing.mp3)
+  the key - (locking sound) (algún sonido de respiración de monstruo)
 
-7. The living room now has a new file. figure.txt
-Openingthe figure.txt file reveals you the reason the woman died, it was a demon/monster but knowing the truth means you will suffer the same fate as the woman. You lose/win/finish the game.
+7. You exit the basement go into the Living room
 
-8. You either open the figure.txt file or cd root. to exit the home.
+8. You get prompted:
+ "You see a figure in the corner of the room, it's breath is loud and sickening. Choose what you will do"
+
+9. You can interact with:
+ figure - you died.
+ run command - get out of the house.

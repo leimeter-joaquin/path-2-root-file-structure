@@ -1,5 +1,3 @@
-Welcome to the folder structure help center.
-
 Here are a list of commands you can use to navigate through the folders:
 
 cd [folder name] [key]: Allows you to change to a different folder, you might need a key to access certain folders.
