@@ -1,0 +1,13 @@
+Welcome to the folder structure help center.
+
+Here are a list of commands you can use to navigate through the folders:
+
+cd [folder name] [key]: Allows you to change to a different folder, you might need a key to access certain folders.
+ls: Lists all the files and sub-folders within the current folder.
+open [text file name]: Displays the text inside the file.
+take [key name]: Take a key
+help: Displays this help message.
+
+Note: Additional commands and tools may become available to you as you unlock new folders so remember to check this command from time to time. Keep exploring and learning to increase your capabilities.
+
+Good luck on your journey!

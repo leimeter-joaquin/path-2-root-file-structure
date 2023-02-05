@@ -1,0 +1,13 @@
+Locked door
+Going through door
+- Entering new area
+- Entering livingroom after unlocking move carpet command (Podría haber un ruido de ratas o una voz extraña cuando volvés al livingroom)
+Background (común para todo menos el basement)
+Moving sofas, table and carpet.
+Opening Basement door
+Basement Background
+Getting a key
+Wheezled breathing of the woman
+Hammer destroying box
+Rain
+Opening window
