@@ -35,8 +35,8 @@
 
 6. In the basement (basement ambiance.mp3) you interact with:
   the description - unlocks body.txt
-  the body - unlocks key.txt (womanBreathing.mp3)
-  the key - (algún sonido de respiración de monstruo)
+  the body - unlocks key.txt (womanBreathing.mp3) 
+  the key - (key.mp3)(monsterBreath.mp3)
 
 7. You exit the basement go into the Living room
 
