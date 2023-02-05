@@ -3,7 +3,7 @@
   the book-shelf
   the lamp
   the window
-  the table - you get the first note and unlock the bed
+  the table - you get the first note piece and unlock the bed
   the kitchen -> There is no interaction in the kitchen, just descriptions.
   the hallway ->
 
@@ -23,7 +23,7 @@
   the mirror-cabinet - find the last note - Unlocks carpet.txt in the living room
   the toilet
 
-5. In the living room you interact with: 
+5. In the living room you interact with: table
   the carpet - Moving carpet sound unlocks basement (openingBasementDoor.mp3)
   the description
   the book-shelf
@@ -36,7 +36,7 @@
 6. In the basement (basement ambiance.mp3) you interact with:
   the description - unlocks body.txt
   the body - unlocks key.txt (womanBreathing.mp3)
-  the key - (locking sound) (algún sonido de respiración de monstruo)
+  the key - (algún sonido de respiración de monstruo)
 
 7. You exit the basement go into the Living room
 
